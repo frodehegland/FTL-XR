@@ -1,4 +1,4 @@
-FoT XR playground to upload/view 3D scenes (`foo.glb` or `foo.gltf` e.g.):
+FoT [XRF playground](https://xrfragment.org) to upload/view 3D scenes (`foo.glb` or `foo.gltf` e.g.):
 
 # Usage
 
