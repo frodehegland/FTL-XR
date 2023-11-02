@@ -8,6 +8,6 @@ FoT XR playground to upload/view 3D scenes (`foo.glb` or `foo.gltf` e.g.):
 
 # Asset to URL
 
-* format: https://frodehegland.github.io/FTL-XR/?`yourfile.glb`
+* format: `https://frodehegland.github.io/FTL-XR/?yourfile.glb`
 
 > Example: [https://frodehegland.github.io/FTL-XR/?test-frode-table.glb](https://frodehegland.github.io/FTL-XR/?test-frode-table.glb)
