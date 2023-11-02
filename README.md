@@ -1,8 +1,6 @@
-collection of FoT concept 3D scenes
+FoT XR playground to upload/view 3D scenes (`foo.glb` or `foo.gltf` e.g.):
 
 # Usage
-
-upload 3D assets (`foo.glb` or `foo.gltf` e.g.):
 
 <img src="https://i.imgur.com/MsmZJDQ.png"/>
 
