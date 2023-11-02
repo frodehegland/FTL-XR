@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>FoT Sandbox</title>
+    <title>FoT XRF Sandbox</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="./assets/css/axist.min.css" />
-    <link type="text/css" rel="stylesheet" href="./assets/css/style.css"/>
-    <script async src="./assets/js/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://xrfragment.org/example/assets/css/axist.min.css" />
+    <link rel="stylesheet" href="https://xrfragment.org/example/assets/css/style.css"/>
+    <script async src="https://xrfragment.org/example/assets/js/alpine.min.js" defer></script>
+
     <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/aframe-blink-controls/dist/aframe-blink-controls.min.js"></script>
-    <script src="./assets/js/xrfragment.aframe.js"></script>
-    <script src="./assets/js/qr.js"></script>
-    <script src="./assets/js/utils.js"></script>
+    <script src="https://xrfragment.org/dist/xrfragment.aframe.js"></script>
+
+    <script src="https://xrfragment.org/example/assets/js/qr.js"></script>
+    <script src="https://xrfragment.org/dist/utils.js"></script>
   </head>
   <body>
     <div id="overlay" style="display:none">
-      <img src="https://thefutureoftext.org/wp-content/uploads/2022/12/sitelogoft-64.png" style="filter:invert(1);left:99px" class="logo"/>
+      <img src="https://thefutureoftext.org/wp-content/uploads/2022/12/sitelogoft-64.png" style="filter: invert(1); left: 99px; width: 29px; top: 10px;" class="logo"/>
       <button id="navback"  onclick="history.back()">&lt;</button>
       <button id="navforward" onclick="history.forward()">&gt;</button>
       <input type="submit" value="load 3D file"></input>
